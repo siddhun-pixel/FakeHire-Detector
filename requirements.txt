@@ -1,1 +1,8 @@
+streamlit
+scikit-learn
+pandas
+numpy
+nltk
+joblib
+tldextract
 
